@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/canonical/mysql-router-operators/commit/5dd832364a764794de5dde2b5d3916f831f041b7",
       "git:hexsha": "5dd832364a764794de5dde2b5d3916f831f041b7",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v8.4/2.62.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v8.4/2.62.0",
+      "repolex:parsedAt": "2026-11-08T04:32:49.609791+00:00"
     },
     {
       "@id": "https://repolex.ai/r/canonical/mysql-router-operators/commit/d4816a0df463bcd54bfdbc412cc469558fe7e70a",
