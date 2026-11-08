@@ -1,0 +1,11 @@
+{
+  "org": "canonical",
+  "repo": "mysql-router-operators",
+  "versions": [
+    {
+      "commit": "5dd832364a764794de5dde2b5d3916f831f041b7",
+      "tag": "v8.4/2.62.0",
+      "parsed_at": "2026-11-08T04:32:49.611307+00:00"
+    }
+  ]
+}
